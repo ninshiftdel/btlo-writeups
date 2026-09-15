@@ -6,9 +6,9 @@ Each report documents the full investigation lifecycle: evidence analysis, IOC e
 
 ## 📋 Completed Labs
 
-| Lab | Category | Difficulty | Report |
-- | Phishing Analysis | Security Operations | Easy | [View Report](./phishing-analysis-1.md) |
-- | Phishing Analysis 2 | Security Operations | Easy | [View Report](./phishing-analysis-2.md) |
+Lab | Category | Difficulty | Report
+- Phishing Analysis | Security Operations | Easy | [View Report](./phishing-analysis-1.md)
+- Phishing Analysis 2 | Security Operations | Easy | [View Report](./phishing-analysis-2.md)
 
 ## 🛠️ Tools Used
 
